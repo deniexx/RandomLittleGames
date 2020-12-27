@@ -1,4 +1,3 @@
-# The Project
-It's a game, where batteries spawn around you and you have to collect them with continiously increase on difficulty.
-
-### !!!NOTE!!! Only included Content and Source files, because of file size limitations!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a56942ef50317a50ad3a05a8e9676b478d2d6e7a0d64773d114cb7c43d68746c
+size 221
