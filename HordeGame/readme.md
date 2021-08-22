@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4bfe29a8a51d18f02f09149be324dc71f927d7522fcfffe46d7263e1d7e9a01
-size 605
+A game about melting down Hordes of Enemies, can be played multiplayer with a friend!
+
+For Multiplayer:
+Enable port-forwarding on port 7777.
+Then open the console in-game with this key - "\`" (under escape)
+And type the following command "Open {ChosenMap}?listen"
+
+To connect:
+Type in console "Open {your friend IP}:7777"
