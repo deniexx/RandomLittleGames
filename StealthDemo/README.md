@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b90e73b4af5886ecabe8b098e72d67115acf7f4b5579821fce9bbba66997cf15
-size 657
+A game about sneaking through enemies, can be played multiplayer with a friend!
+
+For Multiplayer:
+Enable port-forwarding on port 7777.
+Then open the console in-game with this key - "\`" (under escape)
+And type the following command "Open {ChosenMap}?listen"
+
+To connect:
+Type in console "Open {your friend IP}:7777"
